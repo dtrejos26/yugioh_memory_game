@@ -1,0 +1,55 @@
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe.config
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.pdb
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.Form1.resources
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.Properties.Resources.resources
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.exe
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.pdb
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.CustomControlCarta.resources
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Interop.WMPLib.dll
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\bin\Debug\AxInterop.WMPLib.dll
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Interop.WMPLib.dll
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\obj\Debug\AxInterop.WMPLib.dll
+c:\users\danny\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.csproj.ResolveComReference.cache
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\bin\Debug\Game.exe.config
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\bin\Debug\Game.exe
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\bin\Debug\Game.pdb
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\bin\Debug\Interop.WMPLib.dll
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\obj\Debug\Interop.WMPLib.dll
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\obj\Debug\Game.csproj.ResolveComReference.cache
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\obj\Debug\Game.Form1.resources
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\obj\Debug\Game.exe
+C:\Users\Danny\Desktop\JuegoPrograIV\Game\obj\Debug\Game.pdb
+H:\Progra 4\JuegoPrograIV\Game\bin\Debug\Game.exe.config
+H:\Progra 4\JuegoPrograIV\Game\obj\Debug\Interop.WMPLib.dll
+H:\Progra 4\JuegoPrograIV\Game\obj\Debug\AxInterop.WMPLib.dll
+H:\Progra 4\JuegoPrograIV\Game\obj\Debug\Game.csproj.ResolveComReference.cache
+H:\Progra 4\JuegoPrograIV\Game\obj\Debug\Game.exe
+H:\Progra 4\JuegoPrograIV\Game\obj\Debug\Game.pdb
+H:\Progra 4\Tarea01.PrograIV.Final\Game\bin\Debug\Game.exe.config
+H:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Interop.WMPLib.dll
+H:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\AxInterop.WMPLib.dll
+H:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Game.csproj.ResolveComReference.cache
+H:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Game.exe
+H:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Game.pdb
+E:\Progra 4\Tarea01.PrograIV.Final\Game\bin\Debug\Game.exe.config
+E:\Progra 4\Tarea01.PrograIV.Final\Game\bin\Debug\Game.exe
+E:\Progra 4\Tarea01.PrograIV.Final\Game\bin\Debug\Game.pdb
+E:\Progra 4\Tarea01.PrograIV.Final\Game\bin\Debug\Interop.WMPLib.dll
+E:\Progra 4\Tarea01.PrograIV.Final\Game\bin\Debug\AxInterop.WMPLib.dll
+E:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+E:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Interop.WMPLib.dll
+E:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\AxInterop.WMPLib.dll
+E:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Game.csproj.ResolveComReference.cache
+E:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Game.Form1.resources
+E:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Game.Properties.Resources.resources
+E:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+E:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Game.exe
+E:\Progra 4\Tarea01.PrograIV.Final\Game\obj\Debug\Game.pdb
